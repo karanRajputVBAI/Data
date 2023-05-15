@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myproject</string>
+    <string name="myString">String Resource Demo</string>
+</resources>
